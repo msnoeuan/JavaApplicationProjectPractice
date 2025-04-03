@@ -2,7 +2,7 @@ package W04p;
 
 import java.io.*;
 
-public class BinaryCodeEx {
+public class BinaryCopyEx {
     public static void main(String[] args) {
         File src = new File("/Users/yooseungmin/Desktop/2-1/JavaApplicationProjectPractice/W04/DMU.png");
         File dest = new File("/Users/yooseungmin/Desktop/2-1/JavaApplicationProjectPractice/W04/DMUCopy.png");
